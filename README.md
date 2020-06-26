@@ -3,13 +3,13 @@ Welcome to my El Nino Data Analysis in Python
 
 Libraries required:
 
-pandas
-numpy
-matplotlib
-descartes
-geopandas
-shapely.geometry
-scipy
+*pandas
+*numpy
+*matplotlib
+*descartes
+*geopandas
+*shapely.geometry
+*scipy
 
 Motivation for the project includes an ongoing interest in utilizing scientific computing in both science, and industry.  El Nino data analysis grabbed my attention because of the recent media on global warming; therefore the possible oceanic changes that might take place.  
 
