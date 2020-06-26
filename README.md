@@ -3,7 +3,7 @@ Welcome to my El Nino Data Analysis in Python
 
 Libraries required:
 
-*pandas
+* Bullet pandas
 *numpy
 *matplotlib
 *descartes
