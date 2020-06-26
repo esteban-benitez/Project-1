@@ -1,6 +1,6 @@
 # Udacity-Data-Scientist-Project-1
 ## Welcome to my El Nino Data Analysis in Python
-### [Data Science Blog](https://esteban-benitez.github.io/)
+### [Data Science Blog](https://esteban-benitez.github.io/El-Nino/)
 
 Libraries required:
 
