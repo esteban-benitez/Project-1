@@ -39,6 +39,10 @@ Based on the normality results analysis, each dataframe series were assigned a s
 Acknowledgements:
 
 I must thank Udacity for giving me the opportunity work with data, and grant the idea's project.  Additioanlly, the UCI Machine Learning Repository must also be commended, as without the interesting data set, I feel I would not have been as driven to succeed.  Also, I would like to thank all the stack overflow boards I viewed during those more challengning coding times.
+
+Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+US Department of Commerce, National Oceanic and Atmospheric Administration. “What Are El Nino and La Nina?” NOAA’s National Ocean Service, 26 Mar. 2009, oceanservice.noaa.gov/facts/ninonina.html.
             
     
     
